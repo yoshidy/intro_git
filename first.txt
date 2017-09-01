@@ -4,3 +4,4 @@ git‚Ì‚¨•×‹­‚ð‚µ‚Ä‚¢‚Ü‚·ô
 ‚½[‚Ì‚µ[ôô
 ‚¨‚à‚µ‚ë[‚¢ô
 GIT STATUS
+GIT DIFF
